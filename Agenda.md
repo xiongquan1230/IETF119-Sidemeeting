@@ -33,8 +33,6 @@ The primary agenda is shown as below.
 
 5. 19:35-20:00 Open discussions. Daniel Huang. 25mins
 
-*How will the pattern of IP networks and service infrastructure evolve and develop?
+*Scenarios and corresponding values for IP networks empowering applications and services? Multi-cloud service mesh, application function chain, etc.
 
-*Scenarios and corresponding values for IP networks empowering applications and services?
-
-*Principles and methods for collaborative design of unified interfaces between IP networks and services?
+*Principles and methods for collaborative design of unified interfaces between IP networks and services? Essence and definition of "Service ID" compared with similar solutions, ICN for instance?
